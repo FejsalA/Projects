@@ -1,0 +1,13 @@
+C:\Users\Fejsal\source\repos\IntroductionProgramming1\Assigment1\bin\Debug\netcoreapp3.1\Assigment1.exe
+C:\Users\Fejsal\source\repos\IntroductionProgramming1\Assigment1\bin\Debug\netcoreapp3.1\Assigment1.deps.json
+C:\Users\Fejsal\source\repos\IntroductionProgramming1\Assigment1\bin\Debug\netcoreapp3.1\Assigment1.runtimeconfig.json
+C:\Users\Fejsal\source\repos\IntroductionProgramming1\Assigment1\bin\Debug\netcoreapp3.1\Assigment1.runtimeconfig.dev.json
+C:\Users\Fejsal\source\repos\IntroductionProgramming1\Assigment1\bin\Debug\netcoreapp3.1\Assigment1.dll
+C:\Users\Fejsal\source\repos\IntroductionProgramming1\Assigment1\bin\Debug\netcoreapp3.1\Assigment1.pdb
+C:\Users\Fejsal\source\repos\IntroductionProgramming1\Assigment1\obj\Debug\netcoreapp3.1\Assigment1.csprojAssemblyReference.cache
+C:\Users\Fejsal\source\repos\IntroductionProgramming1\Assigment1\obj\Debug\netcoreapp3.1\Assigment1.AssemblyInfoInputs.cache
+C:\Users\Fejsal\source\repos\IntroductionProgramming1\Assigment1\obj\Debug\netcoreapp3.1\Assigment1.AssemblyInfo.cs
+C:\Users\Fejsal\source\repos\IntroductionProgramming1\Assigment1\obj\Debug\netcoreapp3.1\Assigment1.csproj.CoreCompileInputs.cache
+C:\Users\Fejsal\source\repos\IntroductionProgramming1\Assigment1\obj\Debug\netcoreapp3.1\Assigment1.dll
+C:\Users\Fejsal\source\repos\IntroductionProgramming1\Assigment1\obj\Debug\netcoreapp3.1\Assigment1.pdb
+C:\Users\Fejsal\source\repos\IntroductionProgramming1\Assigment1\obj\Debug\netcoreapp3.1\Assigment1.genruntimeconfig.cache
